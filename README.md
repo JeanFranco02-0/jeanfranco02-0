@@ -14,19 +14,22 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Ciberseguridad;Web+Developer;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Freelancer&center=true&vCenter=true&width=720&height=90&pause=1200&size=28&font=Fira+Code&duration=2800">
 	</a>
 </p>
+<hr>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi....***
 
- 
-
-
-## 👨‍💻 Sobre mí
-- 🎓 Estudiante de **Ingeniería Informática**  
-- 💻 Apasionado por el **Desarrollo Web** (HTML, CSS, JavaScript, PHP, MySQL)  
-- 🔐 Formado en **Ciberseguridad** (Bootcamp 4Geeks Academy)  
-- 🌍 Ubicado en **Tarragona, España**  
-- 🎯 Objetivo: crecer como desarrollador y especialista en seguridad digital  
-
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently Developing a Gutenberg Block Plugin **Html, CSS, React.js,Js & Php language**<br>
+✔ I’m currently learning about **React**🥰<br>
+✔ An open source contributor. Please find my free plugin on 
+  **wordpress.org <a href="https://wordpress.org/plugins/attendance-management-for-lifterlms/">Attendance Managment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For LifterLMS</a>**<br>
+✔ A continuous language transaltion contributor 
+  **<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/#content-translations">Translations</a>** <br>
+✔ I’m looking to collaborate with any **Open - WordPress Plugins Projects**<br>
+✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Programador animado">
 </p>
@@ -43,19 +46,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=protonvpn&logoColor=white"/>
 </p>
 
----
 
-## 📂 Proyectos Destacados
-- 🔒 **[Proyecto Seguridad Web](https://github.com/JeanFranco02-0/seguridad-web)**  
-  Ejemplo de buenas prácticas en ciberseguridad para aplicaciones web.  
-
-- 🌐 **[Portfolio Web](https://github.com/JeanFranco02-0/portfolio-web)**  
-  Sitio personal con HTML, CSS y JavaScript para mostrar mis trabajos.  
-
-- 🛡️ **[Auditoría Básica](https://github.com/JeanFranco02-0/auditoria-basica)**  
-  Scripts y ejemplos de auditoría de seguridad aprendidos en el bootcamp.  
-
----
 
 ## 📊 Estadísticas
 <p align="center">
@@ -66,8 +57,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanFranco02-0&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
----
+ <div align="center">
+  <h3><b>Contactame! </b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/jean-franco-qh/" target="_blank">
+  <img align="center" alt="Jean Franco | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="jeanfranco@telecomservice.es" >
+  <img align="center" alt="Jean Franco | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
 
-## 📫 Contacto
-- 💼 [LinkedIn](https://www.linkedin.com/in/jean-franco-qh)  
-- 📧 Email: jeanfranco@telecomservice.es

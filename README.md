@@ -20,16 +20,14 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a Gutenberg Block Plugin **Html, CSS, React.js,Js & Php language**<br>
-✔ I’m currently learning about **React**🥰<br>
-✔ An open source contributor. Please find my free plugin on 
-  **wordpress.org <a href="https://wordpress.org/plugins/attendance-management-for-lifterlms/">Attendance Managment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For LifterLMS</a>**<br>
-✔ A continuous language transaltion contributor 
-  **<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/#content-translations">Translations</a>** <br>
-✔ I’m looking to collaborate with any **Open - WordPress Plugins Projects**<br>
-✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
+✔ 🎓 Estudiante de **Ingeniería Informática**  <br>
+✔ 💻 Apasionado por el **Desarrollo Web** (HTML, CSS, JavaScript, PHP, MySQL) <br>
+✔ 🔐 Formado en **Ciberseguridad** <br>
+✔ 🚀 Co-fundador de TELECOM HORIZONTE <br>
+✔ 🎯 Objetivo: crecer como desarrollador y especialista en seguridad digital <br> <br> <br>
+
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Programador animado">
 </p>

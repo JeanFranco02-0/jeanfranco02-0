@@ -1,28 +1,73 @@
-# 👨‍💻 Jean | Técnico en Ciberseguridad & Desarrollo Web
+<h1 align="center">Hola, mi nombre es Jean Franco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/JeanFranco02-0">
+    <img src="https://komarev.com/ghpvc/?username=JeanFranco02-0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/JeanFranco02-0">
+    <img src="https://img.shields.io/github/followers/JeanFranco02-0?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  </a>
+</p>
 
-¡Hola! Soy Jean, apasionado por la tecnología, la seguridad informática y el desarrollo web. Me formé en el bootcamp de Ciberseguridad de 4Geeks Academy, donde adquirí experiencia práctica en herramientas como **Wazuh (SIEM)**, **Nessus**, **Nmap**, y **Metasploit**, además de realizar auditorías, gestión de riesgos y documentación técnica.
+<br/>
+<p align="center">
+	<a href="https://github.com/JeanFranco02-0">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Ciberseguridad;Web+Developer;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Freelancer&center=true&vCenter=true&width=720&height=90&pause=1200&size=28&font=Fira+Code&duration=2800">
+	</a>
+</p>
 
-También completé un curso de desarrollo web, trabajando con tecnologías como:
 
-- **HTML, CSS, JavaScript**
-- **PHP y MySQL**
-- **Python (nivel básico)**
-- **Administración básica de sistemas Linux**
 
-He participado en proyectos prácticos como la creación de una página web corporativa básica, aplicando criterios de seguridad, organización de infraestructura digital y buenas prácticas en documentación.
+ 
 
-Actualmente me enfoco en crecer como **Técnico en Ciberseguridad**, combinando análisis, resolución de problemas y mejora continua en entornos dinámicos.
+
+## 👨‍💻 Sobre mí
+- 🎓 Estudiante de **Ingeniería Informática**  
+- 💻 Apasionado por el **Desarrollo Web** (HTML, CSS, JavaScript, PHP, MySQL)  
+- 🔐 Formado en **Ciberseguridad** (Bootcamp 4Geeks Academy)  
+- 🌍 Ubicado en **Tarragona, España**  
+- 🎯 Objetivo: crecer como desarrollador y especialista en seguridad digital  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Programador animado">
+</p>
 
 ---
 
-## 🚀 Objetivos
+## 🛠️ Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+</p>
 
-- Consolidar mis conocimientos en ciberseguridad ofensiva y defensiva.
-- Aplicar buenas prácticas en desarrollo seguro.
-- Contribuir a proyectos que integren seguridad desde el diseño.
+---
+
+## 📂 Proyectos Destacados
+- 🔒 **[Proyecto Seguridad Web](https://github.com/JeanFranco02-0/seguridad-web)**  
+  Ejemplo de buenas prácticas en ciberseguridad para aplicaciones web.  
+
+- 🌐 **[Portfolio Web](https://github.com/JeanFranco02-0/portfolio-web)**  
+  Sitio personal con HTML, CSS y JavaScript para mostrar mis trabajos.  
+
+- 🛡️ **[Auditoría Básica](https://github.com/JeanFranco02-0/auditoria-basica)**  
+  Scripts y ejemplos de auditoría de seguridad aprendidos en el bootcamp.  
+
+---
+
+## 📊 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanFranco02-0&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanFranco02-0&theme=tokyonight" alt="GitHub streak"/>
+</p>
 
 ---
 
 ## 📫 Contacto
-
-Puedes encontrarme en GitHub o escribirme para colaborar en proyectos relacionados con seguridad informática, desarrollo web o infraestructura digital.
+- 💼 [LinkedIn](https://www.linkedin.com/in/jean-franco-qh)  
+- 📧 Email: jeanfranco@telecomservice.es
